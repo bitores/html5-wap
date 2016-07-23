@@ -1,0 +1,24 @@
+{
+  "name": "html5-wap",
+  "version": "1.0.0",
+  "description": "the html5 template webpage for mobile ",
+  "main": "template.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitores/html5-wap.git"
+  },
+  "keywords": [
+    "html5",
+    "mobile",
+    "wap"
+  ],
+  "author": "huangzhengjie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitores/html5-wap/issues"
+  },
+  "homepage": "https://github.com/bitores/html5-wap#readme"
+}
